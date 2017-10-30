@@ -1,0 +1,97 @@
+body{
+  margin: 0px;
+}
+.contenedor{
+  height: 350px;
+  width: 1260px;
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+a:hover{
+  background: #e0e0d1;
+}
+a:active{
+  color: #800000;
+}
+.zoom{
+  transition: 1.5s ease;
+  height: 2px;
+}
+.zoom:hover{
+  transform : scale(2);
+  display: inline-block;
+}
+.caja1{
+  background: #F0FFFF;
+  float: left;
+  border: 1px solid #E6E6FA;
+  height: 350px;
+  width: 250px;
+}
+.contenedor .fa.fa-paper-plane-o{
+  margin-left: 120px;
+  font-size:40px;
+}
+h1{
+  font-weight: 500px;
+  font-family:cursive;
+  text-align: center;
+}
+h3{
+  font-weight: 500px;
+  font-family:cursive;
+  text-align: center;
+}
+h4{
+  font-weight: 500px;
+  font-family:cursive;
+  margin: 8px;
+  text-align: center;
+}
+.caja2{
+  background: #F0FFFF;
+  float: left;
+  border: 1px solid #E6E6FA;
+  height: 350px;
+  width: 250px;
+}
+.contenedor .fa.fa-diamond{
+  margin-left: 120px;
+  font-size:40px;
+}
+.caja3{
+  background: #F0FFFF;
+  float: left;
+  border: 1px solid #E6E6FA;
+  height: 350px;
+  width: 250px;
+}
+.contenedor .fa.fa-heart-o{
+  margin-left: 120px;
+  font-size:40px;
+}
+.caja4{
+  background: #F0FFFF;
+  float: left;
+  border: 1px solid #E6E6FA;
+  height: 350px;
+  width: 250px;
+}
+.contenedor .fa.fa-coffee{
+  margin-left: 120px;
+  font-size:40px;
+}
+.caja5{
+  background: #F0FFFF;
+  float: left;
+  border: 1px solid #E6E6FA;
+  height: 350px;
+  width: 250px;
+}
+.contenedor .fa.fa-bed{
+  margin-left: 120px;
+  font-size:40px;
+}
