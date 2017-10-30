@@ -18,11 +18,10 @@ a:active{
 }
 .zoom{
   transition: 1.5s ease;
-  height: 2px;
 }
 .zoom:hover{
-  transform : scale(2);
-  display: inline-block;
+  transform: scale(0.5);
+
 }
 .caja1{
   background: #F0FFFF;
